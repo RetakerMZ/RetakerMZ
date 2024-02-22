@@ -2,17 +2,39 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 
 # 💫 About Me:
-I am a passionate GoLang backend engineer with a strong foundation in web development and system architecture. With a focus on building robust and scalable backend systems, I thrive in collaborative environments where teamwork and innovation drive success.<br>My expertise lies in crafting RESTful APIs that facilitate seamless communication between systems, leveraging the power of GoLang to ensure optimal performance and efficiency. I am adept at database management, particularly MongoDB, where I excel in designing and optimizing data storage solutions for diverse applications.<br>
-In addition to my proficiency in traditional database management, I also possess a keen understanding of event-driven architecture and queue-based communication, allowing me to develop systems that handle asynchronous events and messages with ease.<br>
-My experience extends to cloud computing and storage, with a strong emphasis on utilizing AWS services to deploy and manage scalable applications in the cloud. I am committed to adhering to clean architecture principles, ensuring that my solutions are modular, maintainable, and extensible.<br>
-Furthermore, I am well-versed in memory databases such as Redis, harnessing its capabilities for caching, session management, and real-time data analytics.<br>
-Driven by a passion for innovation and a commitment to excellence, I am dedicated to pushing the boundaries of backend engineering, delivering solutions that meet the evolving needs of modern software development.<br><br>
+Hello! I'm a dedicated GoLang backend engineer with a passion for creating robust and scalable solutions. My journey in the world of technology has been shaped by a diverse set of skills and experiences.<br>
+
+###GoLang Backend Expertise:
+I specialize in GoLang, leveraging its concurrency and performance features to build efficient backend systems. My focus is on crafting RESTful APIs that serve as the backbone for seamless communication between applications.
+
+###Team Collaboration:
+Working within dynamic teams is my forte. I believe in the power of collaboration, where diverse perspectives converge to create innovative solutions. I thrive in environments that foster teamwork and knowledge sharing.
+
+###Database Management:
+My expertise extends to database management, with a particular emphasis on MongoDB and Firebase. I excel in designing and optimizing data storage solutions, ensuring that databases align with the specific needs of each project.
+
+###Event-Driven Architecture and Queues:
+I have hands-on experience in implementing event-driven architecture and leveraging queue-based communication patterns. This skill set allows me to create systems capable of handling asynchronous events and messages efficiently.
+
+###Cloud Storage with AWS:
+I'm well-versed in using Amazon Web Services (AWS) for cloud computing and storage. Harnessing the power of AWS, I deploy and manage applications with a focus on scalability and reliability.
+
+###Clean Architecture Advocate:
+My approach to software development revolves around clean architecture principles. I believe in building modular, maintainable, and extensible solutions that stand the test of time.
+
+###Memory Databases (Redis):
+Utilizing memory databases like Redis is a key part of my toolkit. Whether it's for caching, session management, or real-time analytics, I leverage Redis to enhance the performance of applications.
+
+###Proficient in PHP and Laravel:
+In addition to GoLang, I am proficient in PHP, particularly with the Laravel framework. This enables me to create dynamic and feature-rich web applications, combining the strengths of both languages.
+
+My journey in the tech landscape is marked by continuous learning and a commitment to staying at the forefront of emerging technologies. I'm excited about the challenges that come with each project and look forward to contributing my skills to create innovative solutions.
 ![](https://komarev.com/ghpvc/?username=RetakerMZ&color=447ff7&label=Visitor+count)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 # 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MSI](https://img.shields.io/badge/MSI%20laptop-FF0000?style=for-the-badge&logo=msi&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![RabbitMq](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white)![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)![]
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
